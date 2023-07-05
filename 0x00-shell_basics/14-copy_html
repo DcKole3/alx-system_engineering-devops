@@ -1,2 +1,2 @@
-#!bin/bash cp -uZ ./*.html ../
+#!/bin/bash cp -uZ ./*.html ../
 
