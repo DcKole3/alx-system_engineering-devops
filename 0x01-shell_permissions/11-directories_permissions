@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --no-preserve-root ugo+X ./*/
+chmod -R a+X ./*/
