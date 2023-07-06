@@ -17,4 +17,3 @@ The following shell scripts written using emacs perform respectively these comma
   <li> 12-file_type: Prints the type of the file named iamafile</li>
   <li> 13-symbolic_link: Create a symbolic link to /bin/ls, named __ls__</li>
   <li>  14-copy_html: Copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.</li>
-
