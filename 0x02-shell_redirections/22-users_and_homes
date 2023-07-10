@@ -1,0 +1,2 @@
+#!/bin/bash
+sort < <(cut -f 1,6 -d : /etc/passwd)
