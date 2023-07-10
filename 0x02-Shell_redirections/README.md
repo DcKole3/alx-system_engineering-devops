@@ -2,7 +2,6 @@
 
 This folder contains scripts written using emacs for Ubuntu 20.04 LTS at exactly 2 lines long to perform the folowing tasks:
 <ol>
-<li> <code> </code></li>
 <li> <code>0-hello_world </code>: Prints “Hello, World”, followed by a new line to the standard output.</li>
 <li> <code>1-confused_smiley </code>: displays a confused smiley '(Ôo)'.</li>
 <li> <code>2-hellofile </code>: Display the content of the /etc/passwd file.</li>
