@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep -v oo <<<$(echo {a..z}{a..z}> >(tr " " "\n"))
